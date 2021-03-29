@@ -1,2 +1,2 @@
 # Network_py
-This is some simle solution to work with network on python
+This is some simple solutions to work with network on python
